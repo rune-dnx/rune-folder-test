@@ -8,7 +8,7 @@
     <conditional id="_3CB0F65B-490C-49E8-B219-57EFDA791636" typeRef="string" label="Clients category">
       <if id="_EBFCA34A-2B0A-40C7-BFCB-7BD124E99BFF">
         <literalExpression id="_7AB801FD-EB5B-4F0B-B474-0D4228457FF7" label="Expression Name">
-          <text>Age &gt;= 20</text>
+          <text>Age &gt;= 12</text>
         </literalExpression>
       </if>
       <then id="_8CA2AECF-3482-4D52-9181-62A6BFCB21DC">
