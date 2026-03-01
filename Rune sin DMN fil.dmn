@@ -18,7 +18,7 @@
       </then>
       <else id="_8212CE26-748B-4144-AEBD-DB7D39116C3A">
         <literalExpression id="_5A747D81-4A3E-4E7E-ABF7-49115BECF4DE" label="Expression Name">
-          <text>&quot;the client is too young&quot;</text>
+          <text>&quot;The client is too young&quot;</text>
         </literalExpression>
       </else>
     </conditional>
@@ -35,7 +35,7 @@
       <requiredDecision href="#_D41AD29A-6CC2-47A4-81CB-0FF93E62FB17" />
     </informationRequirement>
     <literalExpression id="_4F97A52B-0AC7-4E30-A1FD-BD17607EF776" typeRef="string" label="Name of the customer">
-      <text>Clients category + &quot; so this is a case we follow&quot;</text>
+      <text>Clients category + &quot; so this is a case we follow. Person name is &quot; + string(First name)</text>
     </literalExpression>
   </decision>
   <inputData name="Age" id="_50D814A3-FC95-4A56-A0DC-7135D4A19F64">
